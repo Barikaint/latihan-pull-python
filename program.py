@@ -1,5 +1,5 @@
 class BioData:
-  def __init__(self, nama, kelas):
+  def __init__(self, nama, kelas, umur, agama):
     self.nama = nama
     self.kelas = kelas
     self.umur = umur
